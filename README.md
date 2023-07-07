@@ -2,9 +2,9 @@
 Open source state manager
 
 
-Библиотека для формирование pipeline по принципе state machine.
+Library for creation pipelines by state machine principle.
 
-Библиотека позволит указать кол-во стейтов их порядок и действия (actions) во время перехода.
+The library will allow you to specify the number of states, their order and actions during the transition:
 
 State - 
 
@@ -15,7 +15,7 @@ Pipeline -
 Pipeline Manager - 
 
 
-Для хранения состояния доступно несколько режимов
+There are several modes available for storing the state:
  
  - In memmory
  - DB
